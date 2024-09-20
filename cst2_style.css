@@ -1,0 +1,14 @@
+header{
+    background-image: linear-gradient( rgb(67, 158, 239), white);
+}
+#rot{
+    transform: rotate(25deg);
+    align-items: end;
+
+}
+#grad1{
+    text-align: left;
+    font-family: "Times New Roman";
+    height: 150px;
+    background-image: linear-gradient(white,rgb(67, 158, 239),white);
+}
